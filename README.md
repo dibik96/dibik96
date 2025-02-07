@@ -39,6 +39,6 @@ A SaaS platform for students to buy, rent, or sell books with multi-website supp
 
 ## 📫 Let's Connect!  
 - **Email**: dibik.kabeer@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/dibik-k-583aa41b2/
+- **LinkedIn**: www.linkedin.com/in/dibik-k
 
 ---
